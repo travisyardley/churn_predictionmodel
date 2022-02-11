@@ -1,4 +1,5 @@
-<h4>The Objective</h4>
+<h1 align="center">Predicting Employee Turnover</h1>
+<h4 align='center'>Employee Prediction Analysis with Scikit-learn.</h4>
 Being able to rely on your team members is critical to success in any environment and even the most humble role can become the bottleneck that halts production, damaging morale and causing unforseen difficulties. Onboarding new additions and adjusting to new workflows takes time and resources: wouldn't it be great to see these roadblocks coming and be able to plan for them?
 
 In this project I've used Python and scikit-learn to conduct employee turnover analysis to assess the churn within an organization, in an effort to predict and 
